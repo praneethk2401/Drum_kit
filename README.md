@@ -5,7 +5,7 @@ This is a simple web application that allows users to play a virtual drum kit. T
 
 ## Demo
 
-You can try the application here : https://main--storied-otter-e4c45a.netlify.app/
+You can try the application here : https://drumtastic.netlify.app/
 
 ## Usage
 
