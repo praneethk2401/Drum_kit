@@ -1,5 +1,7 @@
-
 # Drum Kit
+
+![drumkit](https://github.com/praneethk2401/Drum_kit/assets/69918295/3aa65560-f74c-483a-b252-e4184948eb9a)
+
 
 This is a simple web application that allows users to play a virtual drum kit. The project is built using HTML, CSS, and JavaScript.
 
